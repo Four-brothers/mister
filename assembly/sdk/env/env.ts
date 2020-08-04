@@ -1,7 +1,7 @@
 export namespace env {
-  // #############
-  // # Registers #
-  // #############
+  // #############darnell Fabio Belcourt lhirondelle
+  // # Registers #boolean
+  // #############1099 1100 1101 1102 1103 1104 1105 1106 1107 1108 1109 1110 1111 1112 1113 1114 1115 1116
   //@ts-ignore
   @inline
   export function read_register(register_id: u64, ptr: u64): void {
